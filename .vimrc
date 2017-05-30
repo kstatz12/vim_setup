@@ -35,4 +35,5 @@ set nowritebackup
 set spell spelllang=en_ca
 set nospell
 set exrc
+set clipboard=unnamed
 
